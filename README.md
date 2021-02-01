@@ -1,9 +1,8 @@
-# MyFirstPythonPractice
-This is my first Python Exercises.
-
+# beginner python homework
+Practicing basic python
 ## How to run (from command lines)
 
-1. In your cmd/terminal, navigate to :
+1. In cmd/terminal, navigate to :
 
 ```bash
 MyFirstPythonPractice/Exercise
